@@ -1,0 +1,14 @@
+C:\Projekty\TIO\OData_lab9\Model\bin\Debug\Model.dll.config
+C:\Projekty\TIO\OData_lab9\Model\bin\Debug\Model.dll
+C:\Projekty\TIO\OData_lab9\Model\bin\Debug\Model.pdb
+C:\Projekty\TIO\OData_lab9\Model\bin\Debug\EntityFramework.dll
+C:\Projekty\TIO\OData_lab9\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projekty\TIO\OData_lab9\Model\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Projekty\TIO\OData_lab9\Model\bin\Debug\Npgsql.dll
+C:\Projekty\TIO\OData_lab9\Model\bin\Debug\EntityFramework.xml
+C:\Projekty\TIO\OData_lab9\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projekty\TIO\OData_lab9\Model\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Projekty\TIO\OData_lab9\Model\bin\Debug\Npgsql.xml
+C:\Projekty\TIO\OData_lab9\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Projekty\TIO\OData_lab9\Model\obj\Debug\Model.dll
+C:\Projekty\TIO\OData_lab9\Model\obj\Debug\Model.pdb
